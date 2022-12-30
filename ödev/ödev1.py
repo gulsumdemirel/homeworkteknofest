@@ -87,7 +87,7 @@ while True:
                     break
                 elif soru4>0 and kullanici2==kullanici_adi:
                     print(soru4 ," TL hesabiniza eklenmistir.")
-                    anaparaz=anaparaZ+soru4
+                    anaparaZ=anaparaZ+soru4
                     print("hesabinizdaki para=",anaparaZ,"TL")
                     break
                 elif soru4<=0:
